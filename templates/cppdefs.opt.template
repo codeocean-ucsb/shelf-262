@@ -1,0 +1,97 @@
+/* This is "cppdefs.opt": MODEL CONFIGURATION FILE
+   ==== == ============ ===== ============= ==== */
+
+/*
+ * CHOOSE ONLY ONE PRIMARY FLAG FOR SWITCH LIST BELOW
+ */
+
+
+! 			PARENT --> DOUBLY PERIODIC BOX TO SPIN UP FLOW
+#define UPWELL_SHELF 
+! 		--> NESTED WITH BEC,MAG
+/*
+   Main switch starts here: model configuration choice.
+*/
+
+#if defined UPWELL_SHELF 
+/* SPECIFIC FOR IDEALIZED CASE */
+
+!# define DIAGNOSTICS
+# define ANA_WINDSTRESS
+
+# define ANA_INITIAL
+# define ANA_GRID
+
+
+/* Grid Configuration */
+c#define CURVGRID
+c#define SPHERICAL
+#define MASKING
+
+
+/* Basics */
+#define SOLVE3D
+#define UV_ADV
+#define UV_COR
+
+!CAUSES NOISE AT BOUNDARIES IN THIS SETUP!
+!leaving here for record, do not turn on in idealzied channel!
+c#define ADV_ISONEUTRAL
+
+/* Equation of State */
+#define LIN_EOS
+#define SALINITY
+
+/*  Forcing */
+/*atmospheric*/
+# define ANA_SMFLUX
+# define ANA_SRFLUX
+# define ANA_STFLUX
+# define ANA_SSFLUX
+
+/* Mixing */
+/*  - lateral */
+#define UV_VIS2
+#define TS_DIF2
+
+/*  - vertical */
+#define LMD_MIXING
+#define LMD_KPP
+#define LMD_NONLOCAL
+#define LMD_RIMIX
+#define LMD_CONVEC
+#define LMD_BKPP
+
+
+/* Boundary Conditions */
+/*   - lateral */
+!BCs --> try out no FRC_BRY for velocities, just zero-grad
+! so turn off M3,M2 FRC_BRY
+! and don't specify OBC type
+/* Open Boundary Conditions */
+!ANA_BRY TO USE INITIAL CONDITION AS BRY
+#define ANA_BRY
+!Eastern closed (land mask)
+#define OBC_WEST 
+#define NS_PERIODIC
+!Only do FRC for T
+!#define T_FRC_BRY
+#define Z_FRC_BRY
+
+
+!#define M3_FRC_BRY
+#define M2_FRC_BRY
+#define OBC_M2FLATHER
+!#define OBC_TORLANSKI
+!#define OBC_TSPECIFIED
+!#define OBC_M3SPECIFIED
+!# define OBC_M3ORLANSKI
+#define SPONGE
+#define SPONGE_WRITE
+!#define CONSTANT_SPONGE
+
+#endif
+
+
+#include "set_global_definitions.h"
+

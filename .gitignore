@@ -1,0 +1,21 @@
+# git ignore specifies file types which git will not automatically track
+
+# .opt files
+*.opt
+
+# compile directory and build artifacts
+Compile/
+
+*.o 
+*.mode
+*.a
+*.f
+
+# netcdfs
+*.nc
+
+# specific frequently edited scripts
+*.in
+do_roms.sh
+roms
+

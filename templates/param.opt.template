@@ -1,0 +1,84 @@
+! Parameter options file
+
+! Dimensions of Physical Grid and array dimensions:
+!----------- -- -------- ---- --- ----- -----------
+! LLm   Number of the internal points of the PHYSICAL grid in XI-
+! MMm   and ETA-directions, excluding physical side boundary points,
+!       peroodic ghost points, and MPI-margins (if any).
+!
+! Domain subdivision parameters:
+!------- ----------- -----------
+! NP_XI,  NP_ETA     number of MPI subdomains in XI-, ETA-directions;
+! NSUB_X, NSUB_E     number of shared memory subdomains (tiles) in XI- and ETA-directions;
+
+! Number of tracers
+!------- -----------
+! nt  must be 2 or more if Salinity is defined
+
+
+! Domain
+! ------
+
+      !test shelf upwell (small domain, dx = 50 m
+      !integer, parameter :: LLm = 256, MMm = 512, N=30
+      integer, parameter :: LLm = 360, MMm = 512, N=30
+      integer, parameter :: NP_XI = 8, NP_ETA = 10
+      real, parameter :: dx_grd=50, dy_grd=50     
+    
+! Constants: 
+! ----------
+ 
+      !Slope burger number (slash bathymetry) params
+      ! SB slope ~ 1e-2 (eyeballing usw4sbc)
+
+      ! Bathymetric slope
+      real, parameter :: hslope0 = 1e-2 !headland varies slope
+      !real, parameter :: h_slope = 1e-2  !bathyemtric slope (n.d.)
+      !max shelf depth prescribed so you get to 1 m depth (~mask)
+      real, parameter :: shelf_extent = 1+ LLm*dx_grd*hslope0 ! continously increasing depth with domain length
+      real, parameter :: max_h_shelf = 130  !forced max depth (make shelf_extent to not cap)
+      real, parameter :: min_h_shelf = 2
+      real, parameter :: Nb = 5.5e-5 !strat [s^-2]
+      real, parameter :: f0_grd = 8.22e-5   ! coriolis [s^-1]
+
+      !Headland bathymetry params (ana_grid_headland.h)
+      real, parameter :: headland_width = 1500 ![meters]
+      
+      integer, parameter :: NSUB_X = 1, NSUB_E = 1
+
+      ! Defining number of tracers
+      integer, parameter :: nt_passive=0 
+
+# ifdef SPONGE
+      integer :: sponge_size = 10
+# endif
+
+# ifdef BIOLOGY_BEC2
+#   ifdef Ncycle_SY
+      integer,parameter :: ntrc_bio=29 
+#   else
+      integer,parameter :: ntrc_bio=26 
+#   endif
+# elif defined MARBL
+      integer,parameter :: ntrc_bio=32 
+# else 
+      integer,parameter :: ntrc_bio=0  
+# endif
+#ifdef SALINITY
+      integer,parameter :: ntrc_salt=1
+#else
+      integer,parameter :: ntrc_salt=0
+#endif
+
+      integer, parameter :: nt=1+nt_passive+ntrc_bio+ntrc_salt
+    
+#ifdef ANA_WINDSTRESS
+      ! safeguard to not accidentally have non-zero sustr in analytical.F   
+      ! WIND from N Constant 
+
+      real, parameter :: nday_ramp = 2
+      real, parameter :: sustr0 = 0.
+                              ! gives  tau~ 1e-5 N/m^2
+      real, parameter :: svstr0 =  -(0.0035**2)
+#endif
+ 
