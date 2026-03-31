@@ -1,0 +1,1884 @@
+
+ >>>> Flag to delete partial files is raised.
+
+ Processing set of    8 files   0 shelf_avg.20000102000000.0.nc  i,jSW =    1    1
+                                1 shelf_avg.20000102000000.1.nc  i,jSW =   34    1
+                                2 shelf_avg.20000102000000.2.nc  i,jSW =   66    1
+                                3 shelf_avg.20000102000000.3.nc  i,jSW =   98    1
+                                4 shelf_avg.20000102000000.4.nc  i,jSW =    1    4
+                                5 shelf_avg.20000102000000.5.nc  i,jSW =   34    4
+                                6 shelf_avg.20000102000000.6.nc  i,jSW =   66    4
+                                7 shelf_avg.20000102000000.7.nc  i,jSW =   98    4
+
+ Created netCDF file 'shelf_avg.20000102000000.nc'.
+ -> compression level (deflate_level) =            1
+ -> compression shuffle =  T
+ allocated "buff" with  max_buff_size =                  3069
+ allocated "bfr_out" with max_bfr_out =                 24180
+     0.2 Processing record       1 out of      30 ...
+                Copy non-partitioned array: 'ocean_time'...
+                Copy non-partitioned array: 'time_step'...
+                Assembly partitioned array type  3 name = 'zeta'
+                Assembly partitioned array type  3 name = 'ubar'
+                Assembly partitioned array type  3 name = 'vbar'
+                Assembly partitioned array type  3 name = 'u'
+                Assembly partitioned array type  3 name = 'v'
+                Assembly partitioned array type  3 name = 'temp'
+                Assembly partitioned array type  3 name = 'salt'
+                Assembly partitioned array type  3 name = 'rho'
+                Assembly partitioned array type  3 name = 'omega'
+                Assembly partitioned array type  3 name = 'w'
+                Assembly partitioned array type  3 name = 'Akv'
+                Assembly partitioned array type  3 name = 'Akt'
+                Assembly partitioned array type  3 name = 'AKs'
+                Assembly partitioned array type  3 name = 'hbls'
+                Assembly partitioned array type  3 name = 'hbbl'
+     0.2 Processing record       2 out of      30 ...
+                Copy non-partitioned array: 'ocean_time'...
+                Copy non-partitioned array: 'time_step'...
+                Assembly partitioned array type  3 name = 'zeta'
+                Assembly partitioned array type  3 name = 'ubar'
+                Assembly partitioned array type  3 name = 'vbar'
+                Assembly partitioned array type  3 name = 'u'
+                Assembly partitioned array type  3 name = 'v'
+                Assembly partitioned array type  3 name = 'temp'
+                Assembly partitioned array type  3 name = 'salt'
+                Assembly partitioned array type  3 name = 'rho'
+                Assembly partitioned array type  3 name = 'omega'
+                Assembly partitioned array type  3 name = 'w'
+                Assembly partitioned array type  3 name = 'Akv'
+                Assembly partitioned array type  3 name = 'Akt'
+                Assembly partitioned array type  3 name = 'AKs'
+                Assembly partitioned array type  3 name = 'hbls'
+                Assembly partitioned array type  3 name = 'hbbl'
+     0.3 Processing record       3 out of      30 ...
+                Copy non-partitioned array: 'ocean_time'...
+                Copy non-partitioned array: 'time_step'...
+                Assembly partitioned array type  3 name = 'zeta'
+                Assembly partitioned array type  3 name = 'ubar'
+                Assembly partitioned array type  3 name = 'vbar'
+                Assembly partitioned array type  3 name = 'u'
+                Assembly partitioned array type  3 name = 'v'
+                Assembly partitioned array type  3 name = 'temp'
+                Assembly partitioned array type  3 name = 'salt'
+                Assembly partitioned array type  3 name = 'rho'
+                Assembly partitioned array type  3 name = 'omega'
+                Assembly partitioned array type  3 name = 'w'
+                Assembly partitioned array type  3 name = 'Akv'
+                Assembly partitioned array type  3 name = 'Akt'
+                Assembly partitioned array type  3 name = 'AKs'
+                Assembly partitioned array type  3 name = 'hbls'
+                Assembly partitioned array type  3 name = 'hbbl'
+     0.3 Processing record       4 out of      30 ...
+                Copy non-partitioned array: 'ocean_time'...
+                Copy non-partitioned array: 'time_step'...
+                Assembly partitioned array type  3 name = 'zeta'
+                Assembly partitioned array type  3 name = 'ubar'
+                Assembly partitioned array type  3 name = 'vbar'
+                Assembly partitioned array type  3 name = 'u'
+                Assembly partitioned array type  3 name = 'v'
+                Assembly partitioned array type  3 name = 'temp'
+                Assembly partitioned array type  3 name = 'salt'
+                Assembly partitioned array type  3 name = 'rho'
+                Assembly partitioned array type  3 name = 'omega'
+                Assembly partitioned array type  3 name = 'w'
+                Assembly partitioned array type  3 name = 'Akv'
+                Assembly partitioned array type  3 name = 'Akt'
+                Assembly partitioned array type  3 name = 'AKs'
+                Assembly partitioned array type  3 name = 'hbls'
+                Assembly partitioned array type  3 name = 'hbbl'
+     0.3 Processing record       5 out of      30 ...
+                Copy non-partitioned array: 'ocean_time'...
+                Copy non-partitioned array: 'time_step'...
+                Assembly partitioned array type  3 name = 'zeta'
+                Assembly partitioned array type  3 name = 'ubar'
+                Assembly partitioned array type  3 name = 'vbar'
+                Assembly partitioned array type  3 name = 'u'
+                Assembly partitioned array type  3 name = 'v'
+                Assembly partitioned array type  3 name = 'temp'
+                Assembly partitioned array type  3 name = 'salt'
+                Assembly partitioned array type  3 name = 'rho'
+                Assembly partitioned array type  3 name = 'omega'
+                Assembly partitioned array type  3 name = 'w'
+                Assembly partitioned array type  3 name = 'Akv'
+                Assembly partitioned array type  3 name = 'Akt'
+                Assembly partitioned array type  3 name = 'AKs'
+                Assembly partitioned array type  3 name = 'hbls'
+                Assembly partitioned array type  3 name = 'hbbl'
+     0.3 Processing record       6 out of      30 ...
+                Copy non-partitioned array: 'ocean_time'...
+                Copy non-partitioned array: 'time_step'...
+                Assembly partitioned array type  3 name = 'zeta'
+                Assembly partitioned array type  3 name = 'ubar'
+                Assembly partitioned array type  3 name = 'vbar'
+                Assembly partitioned array type  3 name = 'u'
+                Assembly partitioned array type  3 name = 'v'
+                Assembly partitioned array type  3 name = 'temp'
+                Assembly partitioned array type  3 name = 'salt'
+                Assembly partitioned array type  3 name = 'rho'
+                Assembly partitioned array type  3 name = 'omega'
+                Assembly partitioned array type  3 name = 'w'
+                Assembly partitioned array type  3 name = 'Akv'
+                Assembly partitioned array type  3 name = 'Akt'
+                Assembly partitioned array type  3 name = 'AKs'
+                Assembly partitioned array type  3 name = 'hbls'
+                Assembly partitioned array type  3 name = 'hbbl'
+     0.3 Processing record       7 out of      30 ...
+                Copy non-partitioned array: 'ocean_time'...
+                Copy non-partitioned array: 'time_step'...
+                Assembly partitioned array type  3 name = 'zeta'
+                Assembly partitioned array type  3 name = 'ubar'
+                Assembly partitioned array type  3 name = 'vbar'
+                Assembly partitioned array type  3 name = 'u'
+                Assembly partitioned array type  3 name = 'v'
+                Assembly partitioned array type  3 name = 'temp'
+                Assembly partitioned array type  3 name = 'salt'
+                Assembly partitioned array type  3 name = 'rho'
+                Assembly partitioned array type  3 name = 'omega'
+                Assembly partitioned array type  3 name = 'w'
+                Assembly partitioned array type  3 name = 'Akv'
+                Assembly partitioned array type  3 name = 'Akt'
+                Assembly partitioned array type  3 name = 'AKs'
+                Assembly partitioned array type  3 name = 'hbls'
+                Assembly partitioned array type  3 name = 'hbbl'
+     0.3 Processing record       8 out of      30 ...
+                Copy non-partitioned array: 'ocean_time'...
+                Copy non-partitioned array: 'time_step'...
+                Assembly partitioned array type  3 name = 'zeta'
+                Assembly partitioned array type  3 name = 'ubar'
+                Assembly partitioned array type  3 name = 'vbar'
+                Assembly partitioned array type  3 name = 'u'
+                Assembly partitioned array type  3 name = 'v'
+                Assembly partitioned array type  3 name = 'temp'
+                Assembly partitioned array type  3 name = 'salt'
+                Assembly partitioned array type  3 name = 'rho'
+                Assembly partitioned array type  3 name = 'omega'
+                Assembly partitioned array type  3 name = 'w'
+                Assembly partitioned array type  3 name = 'Akv'
+                Assembly partitioned array type  3 name = 'Akt'
+                Assembly partitioned array type  3 name = 'AKs'
+                Assembly partitioned array type  3 name = 'hbls'
+                Assembly partitioned array type  3 name = 'hbbl'
+     0.3 Processing record       9 out of      30 ...
+                Copy non-partitioned array: 'ocean_time'...
+                Copy non-partitioned array: 'time_step'...
+                Assembly partitioned array type  3 name = 'zeta'
+                Assembly partitioned array type  3 name = 'ubar'
+                Assembly partitioned array type  3 name = 'vbar'
+                Assembly partitioned array type  3 name = 'u'
+                Assembly partitioned array type  3 name = 'v'
+                Assembly partitioned array type  3 name = 'temp'
+                Assembly partitioned array type  3 name = 'salt'
+                Assembly partitioned array type  3 name = 'rho'
+                Assembly partitioned array type  3 name = 'omega'
+                Assembly partitioned array type  3 name = 'w'
+                Assembly partitioned array type  3 name = 'Akv'
+                Assembly partitioned array type  3 name = 'Akt'
+                Assembly partitioned array type  3 name = 'AKs'
+                Assembly partitioned array type  3 name = 'hbls'
+                Assembly partitioned array type  3 name = 'hbbl'
+     0.3 Processing record      10 out of      30 ...
+                Copy non-partitioned array: 'ocean_time'...
+                Copy non-partitioned array: 'time_step'...
+                Assembly partitioned array type  3 name = 'zeta'
+                Assembly partitioned array type  3 name = 'ubar'
+                Assembly partitioned array type  3 name = 'vbar'
+                Assembly partitioned array type  3 name = 'u'
+                Assembly partitioned array type  3 name = 'v'
+                Assembly partitioned array type  3 name = 'temp'
+                Assembly partitioned array type  3 name = 'salt'
+                Assembly partitioned array type  3 name = 'rho'
+                Assembly partitioned array type  3 name = 'omega'
+                Assembly partitioned array type  3 name = 'w'
+                Assembly partitioned array type  3 name = 'Akv'
+                Assembly partitioned array type  3 name = 'Akt'
+                Assembly partitioned array type  3 name = 'AKs'
+                Assembly partitioned array type  3 name = 'hbls'
+                Assembly partitioned array type  3 name = 'hbbl'
+     0.3 Processing record      11 out of      30 ...
+                Copy non-partitioned array: 'ocean_time'...
+                Copy non-partitioned array: 'time_step'...
+                Assembly partitioned array type  3 name = 'zeta'
+                Assembly partitioned array type  3 name = 'ubar'
+                Assembly partitioned array type  3 name = 'vbar'
+                Assembly partitioned array type  3 name = 'u'
+                Assembly partitioned array type  3 name = 'v'
+                Assembly partitioned array type  3 name = 'temp'
+                Assembly partitioned array type  3 name = 'salt'
+                Assembly partitioned array type  3 name = 'rho'
+                Assembly partitioned array type  3 name = 'omega'
+                Assembly partitioned array type  3 name = 'w'
+                Assembly partitioned array type  3 name = 'Akv'
+                Assembly partitioned array type  3 name = 'Akt'
+                Assembly partitioned array type  3 name = 'AKs'
+                Assembly partitioned array type  3 name = 'hbls'
+                Assembly partitioned array type  3 name = 'hbbl'
+     0.4 Processing record      12 out of      30 ...
+                Copy non-partitioned array: 'ocean_time'...
+                Copy non-partitioned array: 'time_step'...
+                Assembly partitioned array type  3 name = 'zeta'
+                Assembly partitioned array type  3 name = 'ubar'
+                Assembly partitioned array type  3 name = 'vbar'
+                Assembly partitioned array type  3 name = 'u'
+                Assembly partitioned array type  3 name = 'v'
+                Assembly partitioned array type  3 name = 'temp'
+                Assembly partitioned array type  3 name = 'salt'
+                Assembly partitioned array type  3 name = 'rho'
+                Assembly partitioned array type  3 name = 'omega'
+                Assembly partitioned array type  3 name = 'w'
+                Assembly partitioned array type  3 name = 'Akv'
+                Assembly partitioned array type  3 name = 'Akt'
+                Assembly partitioned array type  3 name = 'AKs'
+                Assembly partitioned array type  3 name = 'hbls'
+                Assembly partitioned array type  3 name = 'hbbl'
+     0.4 Processing record      13 out of      30 ...
+                Copy non-partitioned array: 'ocean_time'...
+                Copy non-partitioned array: 'time_step'...
+                Assembly partitioned array type  3 name = 'zeta'
+                Assembly partitioned array type  3 name = 'ubar'
+                Assembly partitioned array type  3 name = 'vbar'
+                Assembly partitioned array type  3 name = 'u'
+                Assembly partitioned array type  3 name = 'v'
+                Assembly partitioned array type  3 name = 'temp'
+                Assembly partitioned array type  3 name = 'salt'
+                Assembly partitioned array type  3 name = 'rho'
+                Assembly partitioned array type  3 name = 'omega'
+                Assembly partitioned array type  3 name = 'w'
+                Assembly partitioned array type  3 name = 'Akv'
+                Assembly partitioned array type  3 name = 'Akt'
+                Assembly partitioned array type  3 name = 'AKs'
+                Assembly partitioned array type  3 name = 'hbls'
+                Assembly partitioned array type  3 name = 'hbbl'
+     0.4 Processing record      14 out of      30 ...
+                Copy non-partitioned array: 'ocean_time'...
+                Copy non-partitioned array: 'time_step'...
+                Assembly partitioned array type  3 name = 'zeta'
+                Assembly partitioned array type  3 name = 'ubar'
+                Assembly partitioned array type  3 name = 'vbar'
+                Assembly partitioned array type  3 name = 'u'
+                Assembly partitioned array type  3 name = 'v'
+                Assembly partitioned array type  3 name = 'temp'
+                Assembly partitioned array type  3 name = 'salt'
+                Assembly partitioned array type  3 name = 'rho'
+                Assembly partitioned array type  3 name = 'omega'
+                Assembly partitioned array type  3 name = 'w'
+                Assembly partitioned array type  3 name = 'Akv'
+                Assembly partitioned array type  3 name = 'Akt'
+                Assembly partitioned array type  3 name = 'AKs'
+                Assembly partitioned array type  3 name = 'hbls'
+                Assembly partitioned array type  3 name = 'hbbl'
+     0.4 Processing record      15 out of      30 ...
+                Copy non-partitioned array: 'ocean_time'...
+                Copy non-partitioned array: 'time_step'...
+                Assembly partitioned array type  3 name = 'zeta'
+                Assembly partitioned array type  3 name = 'ubar'
+                Assembly partitioned array type  3 name = 'vbar'
+                Assembly partitioned array type  3 name = 'u'
+                Assembly partitioned array type  3 name = 'v'
+                Assembly partitioned array type  3 name = 'temp'
+                Assembly partitioned array type  3 name = 'salt'
+                Assembly partitioned array type  3 name = 'rho'
+                Assembly partitioned array type  3 name = 'omega'
+                Assembly partitioned array type  3 name = 'w'
+                Assembly partitioned array type  3 name = 'Akv'
+                Assembly partitioned array type  3 name = 'Akt'
+                Assembly partitioned array type  3 name = 'AKs'
+                Assembly partitioned array type  3 name = 'hbls'
+                Assembly partitioned array type  3 name = 'hbbl'
+     0.4 Processing record      16 out of      30 ...
+                Copy non-partitioned array: 'ocean_time'...
+                Copy non-partitioned array: 'time_step'...
+                Assembly partitioned array type  3 name = 'zeta'
+                Assembly partitioned array type  3 name = 'ubar'
+                Assembly partitioned array type  3 name = 'vbar'
+                Assembly partitioned array type  3 name = 'u'
+                Assembly partitioned array type  3 name = 'v'
+                Assembly partitioned array type  3 name = 'temp'
+                Assembly partitioned array type  3 name = 'salt'
+                Assembly partitioned array type  3 name = 'rho'
+                Assembly partitioned array type  3 name = 'omega'
+                Assembly partitioned array type  3 name = 'w'
+                Assembly partitioned array type  3 name = 'Akv'
+                Assembly partitioned array type  3 name = 'Akt'
+                Assembly partitioned array type  3 name = 'AKs'
+                Assembly partitioned array type  3 name = 'hbls'
+                Assembly partitioned array type  3 name = 'hbbl'
+     0.4 Processing record      17 out of      30 ...
+                Copy non-partitioned array: 'ocean_time'...
+                Copy non-partitioned array: 'time_step'...
+                Assembly partitioned array type  3 name = 'zeta'
+                Assembly partitioned array type  3 name = 'ubar'
+                Assembly partitioned array type  3 name = 'vbar'
+                Assembly partitioned array type  3 name = 'u'
+                Assembly partitioned array type  3 name = 'v'
+                Assembly partitioned array type  3 name = 'temp'
+                Assembly partitioned array type  3 name = 'salt'
+                Assembly partitioned array type  3 name = 'rho'
+                Assembly partitioned array type  3 name = 'omega'
+                Assembly partitioned array type  3 name = 'w'
+                Assembly partitioned array type  3 name = 'Akv'
+                Assembly partitioned array type  3 name = 'Akt'
+                Assembly partitioned array type  3 name = 'AKs'
+                Assembly partitioned array type  3 name = 'hbls'
+                Assembly partitioned array type  3 name = 'hbbl'
+     0.4 Processing record      18 out of      30 ...
+                Copy non-partitioned array: 'ocean_time'...
+                Copy non-partitioned array: 'time_step'...
+                Assembly partitioned array type  3 name = 'zeta'
+                Assembly partitioned array type  3 name = 'ubar'
+                Assembly partitioned array type  3 name = 'vbar'
+                Assembly partitioned array type  3 name = 'u'
+                Assembly partitioned array type  3 name = 'v'
+                Assembly partitioned array type  3 name = 'temp'
+                Assembly partitioned array type  3 name = 'salt'
+                Assembly partitioned array type  3 name = 'rho'
+                Assembly partitioned array type  3 name = 'omega'
+                Assembly partitioned array type  3 name = 'w'
+                Assembly partitioned array type  3 name = 'Akv'
+                Assembly partitioned array type  3 name = 'Akt'
+                Assembly partitioned array type  3 name = 'AKs'
+                Assembly partitioned array type  3 name = 'hbls'
+                Assembly partitioned array type  3 name = 'hbbl'
+     0.4 Processing record      19 out of      30 ...
+                Copy non-partitioned array: 'ocean_time'...
+                Copy non-partitioned array: 'time_step'...
+                Assembly partitioned array type  3 name = 'zeta'
+                Assembly partitioned array type  3 name = 'ubar'
+                Assembly partitioned array type  3 name = 'vbar'
+                Assembly partitioned array type  3 name = 'u'
+                Assembly partitioned array type  3 name = 'v'
+                Assembly partitioned array type  3 name = 'temp'
+                Assembly partitioned array type  3 name = 'salt'
+                Assembly partitioned array type  3 name = 'rho'
+                Assembly partitioned array type  3 name = 'omega'
+                Assembly partitioned array type  3 name = 'w'
+                Assembly partitioned array type  3 name = 'Akv'
+                Assembly partitioned array type  3 name = 'Akt'
+                Assembly partitioned array type  3 name = 'AKs'
+                Assembly partitioned array type  3 name = 'hbls'
+                Assembly partitioned array type  3 name = 'hbbl'
+     0.4 Processing record      20 out of      30 ...
+                Copy non-partitioned array: 'ocean_time'...
+                Copy non-partitioned array: 'time_step'...
+                Assembly partitioned array type  3 name = 'zeta'
+                Assembly partitioned array type  3 name = 'ubar'
+                Assembly partitioned array type  3 name = 'vbar'
+                Assembly partitioned array type  3 name = 'u'
+                Assembly partitioned array type  3 name = 'v'
+                Assembly partitioned array type  3 name = 'temp'
+                Assembly partitioned array type  3 name = 'salt'
+                Assembly partitioned array type  3 name = 'rho'
+                Assembly partitioned array type  3 name = 'omega'
+                Assembly partitioned array type  3 name = 'w'
+                Assembly partitioned array type  3 name = 'Akv'
+                Assembly partitioned array type  3 name = 'Akt'
+                Assembly partitioned array type  3 name = 'AKs'
+                Assembly partitioned array type  3 name = 'hbls'
+                Assembly partitioned array type  3 name = 'hbbl'
+     0.4 Processing record      21 out of      30 ...
+                Copy non-partitioned array: 'ocean_time'...
+                Copy non-partitioned array: 'time_step'...
+                Assembly partitioned array type  3 name = 'zeta'
+                Assembly partitioned array type  3 name = 'ubar'
+                Assembly partitioned array type  3 name = 'vbar'
+                Assembly partitioned array type  3 name = 'u'
+                Assembly partitioned array type  3 name = 'v'
+                Assembly partitioned array type  3 name = 'temp'
+                Assembly partitioned array type  3 name = 'salt'
+                Assembly partitioned array type  3 name = 'rho'
+                Assembly partitioned array type  3 name = 'omega'
+                Assembly partitioned array type  3 name = 'w'
+                Assembly partitioned array type  3 name = 'Akv'
+                Assembly partitioned array type  3 name = 'Akt'
+                Assembly partitioned array type  3 name = 'AKs'
+                Assembly partitioned array type  3 name = 'hbls'
+                Assembly partitioned array type  3 name = 'hbbl'
+     0.5 Processing record      22 out of      30 ...
+                Copy non-partitioned array: 'ocean_time'...
+                Copy non-partitioned array: 'time_step'...
+                Assembly partitioned array type  3 name = 'zeta'
+                Assembly partitioned array type  3 name = 'ubar'
+                Assembly partitioned array type  3 name = 'vbar'
+                Assembly partitioned array type  3 name = 'u'
+                Assembly partitioned array type  3 name = 'v'
+                Assembly partitioned array type  3 name = 'temp'
+                Assembly partitioned array type  3 name = 'salt'
+                Assembly partitioned array type  3 name = 'rho'
+                Assembly partitioned array type  3 name = 'omega'
+                Assembly partitioned array type  3 name = 'w'
+                Assembly partitioned array type  3 name = 'Akv'
+                Assembly partitioned array type  3 name = 'Akt'
+                Assembly partitioned array type  3 name = 'AKs'
+                Assembly partitioned array type  3 name = 'hbls'
+                Assembly partitioned array type  3 name = 'hbbl'
+     0.5 Processing record      23 out of      30 ...
+                Copy non-partitioned array: 'ocean_time'...
+                Copy non-partitioned array: 'time_step'...
+                Assembly partitioned array type  3 name = 'zeta'
+                Assembly partitioned array type  3 name = 'ubar'
+                Assembly partitioned array type  3 name = 'vbar'
+                Assembly partitioned array type  3 name = 'u'
+                Assembly partitioned array type  3 name = 'v'
+                Assembly partitioned array type  3 name = 'temp'
+                Assembly partitioned array type  3 name = 'salt'
+                Assembly partitioned array type  3 name = 'rho'
+                Assembly partitioned array type  3 name = 'omega'
+                Assembly partitioned array type  3 name = 'w'
+                Assembly partitioned array type  3 name = 'Akv'
+                Assembly partitioned array type  3 name = 'Akt'
+                Assembly partitioned array type  3 name = 'AKs'
+                Assembly partitioned array type  3 name = 'hbls'
+                Assembly partitioned array type  3 name = 'hbbl'
+     0.5 Processing record      24 out of      30 ...
+                Copy non-partitioned array: 'ocean_time'...
+                Copy non-partitioned array: 'time_step'...
+                Assembly partitioned array type  3 name = 'zeta'
+                Assembly partitioned array type  3 name = 'ubar'
+                Assembly partitioned array type  3 name = 'vbar'
+                Assembly partitioned array type  3 name = 'u'
+                Assembly partitioned array type  3 name = 'v'
+                Assembly partitioned array type  3 name = 'temp'
+                Assembly partitioned array type  3 name = 'salt'
+                Assembly partitioned array type  3 name = 'rho'
+                Assembly partitioned array type  3 name = 'omega'
+                Assembly partitioned array type  3 name = 'w'
+                Assembly partitioned array type  3 name = 'Akv'
+                Assembly partitioned array type  3 name = 'Akt'
+                Assembly partitioned array type  3 name = 'AKs'
+                Assembly partitioned array type  3 name = 'hbls'
+                Assembly partitioned array type  3 name = 'hbbl'
+     0.5 Processing record      25 out of      30 ...
+                Copy non-partitioned array: 'ocean_time'...
+                Copy non-partitioned array: 'time_step'...
+                Assembly partitioned array type  3 name = 'zeta'
+                Assembly partitioned array type  3 name = 'ubar'
+                Assembly partitioned array type  3 name = 'vbar'
+                Assembly partitioned array type  3 name = 'u'
+                Assembly partitioned array type  3 name = 'v'
+                Assembly partitioned array type  3 name = 'temp'
+                Assembly partitioned array type  3 name = 'salt'
+                Assembly partitioned array type  3 name = 'rho'
+                Assembly partitioned array type  3 name = 'omega'
+                Assembly partitioned array type  3 name = 'w'
+                Assembly partitioned array type  3 name = 'Akv'
+                Assembly partitioned array type  3 name = 'Akt'
+                Assembly partitioned array type  3 name = 'AKs'
+                Assembly partitioned array type  3 name = 'hbls'
+                Assembly partitioned array type  3 name = 'hbbl'
+     0.5 Processing record      26 out of      30 ...
+                Copy non-partitioned array: 'ocean_time'...
+                Copy non-partitioned array: 'time_step'...
+                Assembly partitioned array type  3 name = 'zeta'
+                Assembly partitioned array type  3 name = 'ubar'
+                Assembly partitioned array type  3 name = 'vbar'
+                Assembly partitioned array type  3 name = 'u'
+                Assembly partitioned array type  3 name = 'v'
+                Assembly partitioned array type  3 name = 'temp'
+                Assembly partitioned array type  3 name = 'salt'
+                Assembly partitioned array type  3 name = 'rho'
+                Assembly partitioned array type  3 name = 'omega'
+                Assembly partitioned array type  3 name = 'w'
+                Assembly partitioned array type  3 name = 'Akv'
+                Assembly partitioned array type  3 name = 'Akt'
+                Assembly partitioned array type  3 name = 'AKs'
+                Assembly partitioned array type  3 name = 'hbls'
+                Assembly partitioned array type  3 name = 'hbbl'
+     0.5 Processing record      27 out of      30 ...
+                Copy non-partitioned array: 'ocean_time'...
+                Copy non-partitioned array: 'time_step'...
+                Assembly partitioned array type  3 name = 'zeta'
+                Assembly partitioned array type  3 name = 'ubar'
+                Assembly partitioned array type  3 name = 'vbar'
+                Assembly partitioned array type  3 name = 'u'
+                Assembly partitioned array type  3 name = 'v'
+                Assembly partitioned array type  3 name = 'temp'
+                Assembly partitioned array type  3 name = 'salt'
+                Assembly partitioned array type  3 name = 'rho'
+                Assembly partitioned array type  3 name = 'omega'
+                Assembly partitioned array type  3 name = 'w'
+                Assembly partitioned array type  3 name = 'Akv'
+                Assembly partitioned array type  3 name = 'Akt'
+                Assembly partitioned array type  3 name = 'AKs'
+                Assembly partitioned array type  3 name = 'hbls'
+                Assembly partitioned array type  3 name = 'hbbl'
+     0.5 Processing record      28 out of      30 ...
+                Copy non-partitioned array: 'ocean_time'...
+                Copy non-partitioned array: 'time_step'...
+                Assembly partitioned array type  3 name = 'zeta'
+                Assembly partitioned array type  3 name = 'ubar'
+                Assembly partitioned array type  3 name = 'vbar'
+                Assembly partitioned array type  3 name = 'u'
+                Assembly partitioned array type  3 name = 'v'
+                Assembly partitioned array type  3 name = 'temp'
+                Assembly partitioned array type  3 name = 'salt'
+                Assembly partitioned array type  3 name = 'rho'
+                Assembly partitioned array type  3 name = 'omega'
+                Assembly partitioned array type  3 name = 'w'
+                Assembly partitioned array type  3 name = 'Akv'
+                Assembly partitioned array type  3 name = 'Akt'
+                Assembly partitioned array type  3 name = 'AKs'
+                Assembly partitioned array type  3 name = 'hbls'
+                Assembly partitioned array type  3 name = 'hbbl'
+     0.5 Processing record      29 out of      30 ...
+                Copy non-partitioned array: 'ocean_time'...
+                Copy non-partitioned array: 'time_step'...
+                Assembly partitioned array type  3 name = 'zeta'
+                Assembly partitioned array type  3 name = 'ubar'
+                Assembly partitioned array type  3 name = 'vbar'
+                Assembly partitioned array type  3 name = 'u'
+                Assembly partitioned array type  3 name = 'v'
+                Assembly partitioned array type  3 name = 'temp'
+                Assembly partitioned array type  3 name = 'salt'
+                Assembly partitioned array type  3 name = 'rho'
+                Assembly partitioned array type  3 name = 'omega'
+                Assembly partitioned array type  3 name = 'w'
+                Assembly partitioned array type  3 name = 'Akv'
+                Assembly partitioned array type  3 name = 'Akt'
+                Assembly partitioned array type  3 name = 'AKs'
+                Assembly partitioned array type  3 name = 'hbls'
+                Assembly partitioned array type  3 name = 'hbbl'
+     0.5 Processing record      30 out of      30 ...
+                Copy non-partitioned array: 'ocean_time'...
+                Copy non-partitioned array: 'time_step'...
+                Assembly partitioned array type  3 name = 'zeta'
+                Assembly partitioned array type  3 name = 'ubar'
+                Assembly partitioned array type  3 name = 'vbar'
+                Assembly partitioned array type  3 name = 'u'
+                Assembly partitioned array type  3 name = 'v'
+                Assembly partitioned array type  3 name = 'temp'
+                Assembly partitioned array type  3 name = 'salt'
+                Assembly partitioned array type  3 name = 'rho'
+                Assembly partitioned array type  3 name = 'omega'
+                Assembly partitioned array type  3 name = 'w'
+                Assembly partitioned array type  3 name = 'Akv'
+                Assembly partitioned array type  3 name = 'Akt'
+                Assembly partitioned array type  3 name = 'AKs'
+                Assembly partitioned array type  3 name = 'hbls'
+                Assembly partitioned array type  3 name = 'hbbl'
+ closing files...
+ ...........input
+ ...........output
+
+ Deleting partial files...
+                           '/bin/rm -f shelf_avg.20000102000000.0.nc'
+                           '/bin/rm -f shelf_avg.20000102000000.1.nc'
+                           '/bin/rm -f shelf_avg.20000102000000.2.nc'
+                           '/bin/rm -f shelf_avg.20000102000000.3.nc'
+                           '/bin/rm -f shelf_avg.20000102000000.4.nc'
+                           '/bin/rm -f shelf_avg.20000102000000.5.nc'
+                           '/bin/rm -f shelf_avg.20000102000000.6.nc'
+                           '/bin/rm -f shelf_avg.20000102000000.7.nc'
+ 
+
+ CPU_time:  run =       0.00  usr =       0.31  sys =       0.00
+
+ Analysis/file creation :                              0.20 sec
+        Total data read :       28.42 MBytes in        0.18 sec (  156.74 MB/sec)
+     Total data written :       28.42 MBytes in        0.02 sec ( 1671.56 MB/sec)
+     Data assembly time :                              0.00 sec
+  Output file sync time :                              0.16 sec
+ Removing partial files :                              0.15 sec
+              Gray time :                              0.05 sec
+                                               ------------------
+            Elapsed wall-clock time:                   0.76 sec
+
+
+ >>>> Flag to delete partial files is raised.
+
+ Processing set of    8 files   0 shelf_grd.0.nc  i,jSW =    1    1
+                                1 shelf_grd.1.nc  i,jSW =   34    1
+                                2 shelf_grd.2.nc  i,jSW =   66    1
+                                3 shelf_grd.3.nc  i,jSW =   98    1
+                                4 shelf_grd.4.nc  i,jSW =    1    4
+                                5 shelf_grd.5.nc  i,jSW =   34    4
+                                6 shelf_grd.6.nc  i,jSW =   66    4
+                                7 shelf_grd.7.nc  i,jSW =   98    4
+
+ Created netCDF file 'shelf_grd.nc'.
+ -> compression level (deflate_level) =            1
+ -> compression shuffle =  T
+ allocated "buff" with  max_buff_size =                    99
+ allocated "bfr_out" with max_bfr_out =                   780
+                Copy scalar variable: 'spherical'...
+                Copy scalar variable: 'xl'...
+                Copy scalar variable: 'el'...
+                Assembly partitioned array type  3 name = 'h'
+                Assembly partitioned array type  3 name = 'f'
+                Assembly partitioned array type  3 name = 'pm'
+                Assembly partitioned array type  3 name = 'pn'
+                Assembly partitioned array type  3 name = 'x_rho'
+                Assembly partitioned array type  3 name = 'y_rho'
+                Assembly partitioned array type  3 name = 'mask_rho'
+ closing files...
+ ...........input
+ ...........output
+
+ Deleting partial files...
+                           '/bin/rm -f shelf_grd.0.nc'
+                           '/bin/rm -f shelf_grd.1.nc'
+                           '/bin/rm -f shelf_grd.2.nc'
+                           '/bin/rm -f shelf_grd.3.nc'
+                           '/bin/rm -f shelf_grd.4.nc'
+                           '/bin/rm -f shelf_grd.5.nc'
+                           '/bin/rm -f shelf_grd.6.nc'
+                           '/bin/rm -f shelf_grd.7.nc'
+ 
+
+ CPU_time:  run =       0.00  usr =       0.03  sys =       0.00
+
+ Analysis/file creation :                              0.05 sec
+        Total data read :        0.04 MBytes in        0.00 sec (   25.69 MB/sec)
+     Total data written :        0.04 MBytes in        0.00 sec (  218.40 MB/sec)
+     Data assembly time :                              0.00 sec
+  Output file sync time :                              0.01 sec
+ Removing partial files :                              0.20 sec
+              Gray time :                              0.02 sec
+                                               ------------------
+            Elapsed wall-clock time:                   0.29 sec
+
+    z_lev( 1) =    -1.0000
+    z_lev( 2) =    -2.0000
+    z_lev( 3) =    -3.0000
+    z_lev( 4) =    -4.0000
+    z_lev( 5) =    -5.0000
+    z_lev( 6) =    -6.0000
+    z_lev( 7) =    -7.0000
+    z_lev( 8) =    -8.0000
+    z_lev( 9) =    -9.0000
+    z_lev(10) =   -10.0000
+    z_lev(11) =   -11.0000
+    z_lev(12) =   -12.0000
+    z_lev(13) =   -13.0000
+    z_lev(14) =   -14.0000
+    z_lev(15) =   -15.0000
+    z_lev(16) =   -16.0000
+    z_lev(17) =   -17.0000
+    z_lev(18) =   -18.0000
+    z_lev(19) =   -19.0000
+    z_lev(20) =   -20.0000
+    z_lev(21) =   -21.0000
+    z_lev(22) =   -22.0000
+    z_lev(23) =   -23.0000
+    z_lev(24) =   -24.0000
+    z_lev(25) =   -25.0000
+    z_lev(26) =   -26.0000
+    z_lev(27) =   -27.0000
+    z_lev(28) =   -28.0000
+    z_lev(29) =   -29.0000
+    z_lev(30) =   -30.0000
+    z_lev(31) =   -31.0000
+    z_lev(32) =   -32.0000
+    z_lev(33) =   -33.0000
+    z_lev(34) =   -34.0000
+    z_lev(35) =   -35.0000
+    z_lev(36) =   -36.0000
+    z_lev(37) =   -37.0000
+    z_lev(38) =   -38.0000
+    z_lev(39) =   -39.0000
+    z_lev(40) =   -40.0000
+    z_lev(41) =   -41.0000
+    z_lev(42) =   -42.0000
+    z_lev(43) =   -43.0000
+    z_lev(44) =   -44.0000
+    z_lev(45) =   -45.0000
+    z_lev(46) =   -46.0000
+    z_lev(47) =   -47.0000
+    z_lev(48) =   -48.0000
+    z_lev(49) =   -49.0000
+    z_lev(50) =   -50.0000
+    z_lev(51) =   -51.0000
+    z_lev(52) =   -52.0000
+    z_lev(53) =   -53.0000
+    z_lev(54) =   -54.0000
+    z_lev(55) =   -55.0000
+    z_lev(56) =   -56.0000
+    z_lev(57) =   -57.0000
+    z_lev(58) =   -58.0000
+    z_lev(59) =   -59.0000
+    z_lev(60) =   -60.0000
+    z_lev(61) =   -61.0000
+    z_lev(62) =   -62.0000
+    z_lev(63) =   -63.0000
+    z_lev(64) =   -64.0000
+    z_lev(65) =   -65.0000
+    z_lev(66) =   -66.0000
+    z_lev(67) =   -67.0000
+    z_lev(68) =   -68.0000
+    z_lev(69) =   -69.0000
+    z_lev(70) =   -70.0000
+    z_lev(71) =   -71.0000
+    z_lev(72) =   -72.0000
+    z_lev(73) =   -73.0000
+    z_lev(74) =   -74.0000
+    z_lev(75) =   -75.0000
+    z_lev(76) =   -76.0000
+    z_lev(77) =   -77.0000
+    z_lev(78) =   -78.0000
+    z_lev(79) =   -79.0000
+    z_lev(80) =   -80.0000
+    z_lev(81) =   -81.0000
+    z_lev(82) =   -82.0000
+    z_lev(83) =   -83.0000
+    z_lev(84) =   -84.0000
+    z_lev(85) =   -85.0000
+    z_lev(86) =   -86.0000
+    z_lev(87) =   -87.0000
+    z_lev(88) =   -88.0000
+    z_lev(89) =   -89.0000
+    z_lev(90) =   -90.0000
+    z_lev(91) =   -91.0000
+    z_lev(92) =   -92.0000
+    z_lev(93) =   -93.0000
+    z_lev(94) =   -94.0000
+    z_lev(95) =   -95.0000
+    z_lev(96) =   -96.0000
+    z_lev(97) =   -97.0000
+    z_lev(98) =   -98.0000
+    z_lev(99) =   -99.0000
+    z_lev(**) =  -100.0000
+    z_lev(**) =  -101.0000
+    z_lev(**) =  -102.0000
+    z_lev(**) =  -103.0000
+    z_lev(**) =  -104.0000
+    z_lev(**) =  -105.0000
+    z_lev(**) =  -106.0000
+    z_lev(**) =  -107.0000
+    z_lev(**) =  -108.0000
+    z_lev(**) =  -109.0000
+    z_lev(**) =  -110.0000
+    z_lev(**) =  -111.0000
+    z_lev(**) =  -112.0000
+    z_lev(**) =  -113.0000
+    z_lev(**) =  -114.0000
+    z_lev(**) =  -115.0000
+    z_lev(**) =  -116.0000
+    z_lev(**) =  -117.0000
+    z_lev(**) =  -118.0000
+    z_lev(**) =  -119.0000
+    z_lev(**) =  -120.0000
+    z_lev(**) =  -121.0000
+    z_lev(**) =  -122.0000
+    z_lev(**) =  -123.0000
+    z_lev(**) =  -124.0000
+    z_lev(**) =  -125.0000
+    z_lev(**) =  -126.0000
+    z_lev(**) =  -127.0000
+    z_lev(**) =  -128.0000
+    z_lev(**) =  -129.0000
+    z_lev(**) =  -130.0000
+    z_lev(**) =  -131.0000
+    z_lev(**) =  -132.0000
+    z_lev(**) =  -133.0000
+    z_lev(**) =  -134.0000
+    z_lev(**) =  -135.0000
+    z_lev(**) =  -136.0000
+    z_lev(**) =  -137.0000
+    z_lev(**) =  -138.0000
+    z_lev(**) =  -139.0000
+    z_lev(**) =  -140.0000
+    z_lev(**) =  -141.0000
+    z_lev(**) =  -142.0000
+    z_lev(**) =  -143.0000
+    z_lev(**) =  -144.0000
+    z_lev(**) =  -145.0000
+    z_lev(**) =  -146.0000
+    z_lev(**) =  -147.0000
+    z_lev(**) =  -148.0000
+    z_lev(**) =  -149.0000
+    z_lev(**) =  -150.0000
+    z_lev(**) =  -151.0000
+    z_lev(**) =  -152.0000
+    z_lev(**) =  -153.0000
+    z_lev(**) =  -154.0000
+    z_lev(**) =  -155.0000
+    z_lev(**) =  -156.0000
+    z_lev(**) =  -157.0000
+    z_lev(**) =  -158.0000
+    z_lev(**) =  -159.0000
+    z_lev(**) =  -160.0000
+    z_lev(**) =  -161.0000
+    z_lev(**) =  -162.0000
+    z_lev(**) =  -163.0000
+    z_lev(**) =  -164.0000
+    z_lev(**) =  -165.0000
+    z_lev(**) =  -166.0000
+    z_lev(**) =  -167.0000
+    z_lev(**) =  -168.0000
+    z_lev(**) =  -169.0000
+    z_lev(**) =  -170.0000
+    z_lev(**) =  -171.0000
+    z_lev(**) =  -172.0000
+    z_lev(**) =  -173.0000
+    z_lev(**) =  -174.0000
+    z_lev(**) =  -175.0000
+    z_lev(**) =  -176.0000
+    z_lev(**) =  -177.0000
+    z_lev(**) =  -178.0000
+    z_lev(**) =  -179.0000
+    z_lev(**) =  -180.0000
+    z_lev(**) =  -181.0000
+    z_lev(**) =  -182.0000
+    z_lev(**) =  -183.0000
+    z_lev(**) =  -184.0000
+    z_lev(**) =  -185.0000
+    z_lev(**) =  -186.0000
+    z_lev(**) =  -187.0000
+    z_lev(**) =  -188.0000
+    z_lev(**) =  -189.0000
+    z_lev(**) =  -190.0000
+    z_lev(**) =  -191.0000
+    z_lev(**) =  -192.0000
+    z_lev(**) =  -193.0000
+    z_lev(**) =  -194.0000
+    z_lev(**) =  -195.0000
+    z_lev(**) =  -196.0000
+    z_lev(**) =  -197.0000
+    z_lev(**) =  -198.0000
+    z_lev(**) =  -199.0000
+    z_lev(**) =  -200.0000
+    z_lev(**) =  -201.0000
+    z_lev(**) =  -202.0000
+    z_lev(**) =  -203.0000
+    z_lev(**) =  -204.0000
+    z_lev(**) =  -205.0000
+    z_lev(**) =  -206.0000
+    z_lev(**) =  -207.0000
+    z_lev(**) =  -208.0000
+    z_lev(**) =  -209.0000
+    z_lev(**) =  -210.0000
+    z_lev(**) =  -211.0000
+    z_lev(**) =  -212.0000
+    z_lev(**) =  -213.0000
+    z_lev(**) =  -214.0000
+    z_lev(**) =  -215.0000
+    z_lev(**) =  -216.0000
+    z_lev(**) =  -217.0000
+    z_lev(**) =  -218.0000
+    z_lev(**) =  -219.0000
+    z_lev(**) =  -220.0000
+    z_lev(**) =  -221.0000
+    z_lev(**) =  -222.0000
+    z_lev(**) =  -223.0000
+    z_lev(**) =  -224.0000
+    z_lev(**) =  -225.0000
+    z_lev(**) =  -226.0000
+    z_lev(**) =  -227.0000
+    z_lev(**) =  -228.0000
+    z_lev(**) =  -229.0000
+    z_lev(**) =  -230.0000
+    z_lev(**) =  -231.0000
+    z_lev(**) =  -232.0000
+    z_lev(**) =  -233.0000
+    z_lev(**) =  -234.0000
+    z_lev(**) =  -235.0000
+    z_lev(**) =  -236.0000
+    z_lev(**) =  -237.0000
+    z_lev(**) =  -238.0000
+    z_lev(**) =  -239.0000
+    z_lev(**) =  -240.0000
+    z_lev(**) =  -241.0000
+    z_lev(**) =  -242.0000
+    z_lev(**) =  -243.0000
+    z_lev(**) =  -244.0000
+    z_lev(**) =  -245.0000
+    z_lev(**) =  -246.0000
+    z_lev(**) =  -247.0000
+    z_lev(**) =  -248.0000
+    z_lev(**) =  -249.0000
+    z_lev(**) =  -250.0000
+    z_lev(**) =  -251.0000
+    z_lev(**) =  -252.0000
+    z_lev(**) =  -253.0000
+    z_lev(**) =  -254.0000
+    z_lev(**) =  -255.0000
+    z_lev(**) =  -256.0000
+    z_lev(**) =  -257.0000
+    z_lev(**) =  -258.0000
+    z_lev(**) =  -259.0000
+    z_lev(**) =  -260.0000
+    z_lev(**) =  -261.0000
+    z_lev(**) =  -262.0000
+    z_lev(**) =  -263.0000
+    z_lev(**) =  -264.0000
+    z_lev(**) =  -265.0000
+    z_lev(**) =  -266.0000
+    z_lev(**) =  -267.0000
+    z_lev(**) =  -268.0000
+    z_lev(**) =  -269.0000
+    z_lev(**) =  -270.0000
+    z_lev(**) =  -271.0000
+    z_lev(**) =  -272.0000
+    z_lev(**) =  -273.0000
+    z_lev(**) =  -274.0000
+    z_lev(**) =  -275.0000
+    z_lev(**) =  -276.0000
+    z_lev(**) =  -277.0000
+    z_lev(**) =  -278.0000
+    z_lev(**) =  -279.0000
+    z_lev(**) =  -280.0000
+    z_lev(**) =  -281.0000
+    z_lev(**) =  -282.0000
+    z_lev(**) =  -283.0000
+    z_lev(**) =  -284.0000
+    z_lev(**) =  -285.0000
+    z_lev(**) =  -286.0000
+    z_lev(**) =  -287.0000
+    z_lev(**) =  -288.0000
+    z_lev(**) =  -289.0000
+    z_lev(**) =  -290.0000
+    z_lev(**) =  -291.0000
+    z_lev(**) =  -292.0000
+    z_lev(**) =  -293.0000
+    z_lev(**) =  -294.0000
+    z_lev(**) =  -295.0000
+    z_lev(**) =  -296.0000
+    z_lev(**) =  -297.0000
+    z_lev(**) =  -298.0000
+    z_lev(**) =  -299.0000
+    z_lev(**) =  -300.0000
+    z_lev(**) =  -301.0000
+    z_lev(**) =  -302.0000
+    z_lev(**) =  -303.0000
+    z_lev(**) =  -304.0000
+    z_lev(**) =  -305.0000
+    z_lev(**) =  -306.0000
+    z_lev(**) =  -307.0000
+    z_lev(**) =  -308.0000
+    z_lev(**) =  -309.0000
+    z_lev(**) =  -310.0000
+    z_lev(**) =  -311.0000
+    z_lev(**) =  -312.0000
+    z_lev(**) =  -313.0000
+    z_lev(**) =  -314.0000
+    z_lev(**) =  -315.0000
+    z_lev(**) =  -316.0000
+    z_lev(**) =  -317.0000
+    z_lev(**) =  -318.0000
+    z_lev(**) =  -319.0000
+    z_lev(**) =  -320.0000
+    z_lev(**) =  -321.0000
+    z_lev(**) =  -322.0000
+    z_lev(**) =  -323.0000
+    z_lev(**) =  -324.0000
+    z_lev(**) =  -325.0000
+    z_lev(**) =  -326.0000
+    z_lev(**) =  -327.0000
+    z_lev(**) =  -328.0000
+    z_lev(**) =  -329.0000
+    z_lev(**) =  -330.0000
+    z_lev(**) =  -331.0000
+    z_lev(**) =  -332.0000
+    z_lev(**) =  -333.0000
+    z_lev(**) =  -334.0000
+    z_lev(**) =  -335.0000
+    z_lev(**) =  -336.0000
+    z_lev(**) =  -337.0000
+    z_lev(**) =  -338.0000
+    z_lev(**) =  -339.0000
+    z_lev(**) =  -340.0000
+    z_lev(**) =  -341.0000
+    z_lev(**) =  -342.0000
+    z_lev(**) =  -343.0000
+    z_lev(**) =  -344.0000
+    z_lev(**) =  -345.0000
+    z_lev(**) =  -346.0000
+    z_lev(**) =  -347.0000
+    z_lev(**) =  -348.0000
+    z_lev(**) =  -349.0000
+    z_lev(**) =  -350.0000
+    z_lev(**) =  -351.0000
+    z_lev(**) =  -352.0000
+    z_lev(**) =  -353.0000
+    z_lev(**) =  -354.0000
+    z_lev(**) =  -355.0000
+    z_lev(**) =  -356.0000
+    z_lev(**) =  -357.0000
+    z_lev(**) =  -358.0000
+    z_lev(**) =  -359.0000
+    z_lev(**) =  -360.0000
+    z_lev(**) =  -361.0000
+    z_lev(**) =  -362.0000
+    z_lev(**) =  -363.0000
+    z_lev(**) =  -364.0000
+    z_lev(**) =  -365.0000
+    z_lev(**) =  -366.0000
+    z_lev(**) =  -367.0000
+    z_lev(**) =  -368.0000
+    z_lev(**) =  -369.0000
+    z_lev(**) =  -370.0000
+    z_lev(**) =  -371.0000
+    z_lev(**) =  -372.0000
+    z_lev(**) =  -373.0000
+    z_lev(**) =  -374.0000
+    z_lev(**) =  -375.0000
+    z_lev(**) =  -376.0000
+    z_lev(**) =  -377.0000
+    z_lev(**) =  -378.0000
+    z_lev(**) =  -379.0000
+    z_lev(**) =  -380.0000
+    z_lev(**) =  -381.0000
+    z_lev(**) =  -382.0000
+    z_lev(**) =  -383.0000
+    z_lev(**) =  -384.0000
+    z_lev(**) =  -385.0000
+    z_lev(**) =  -386.0000
+    z_lev(**) =  -387.0000
+    z_lev(**) =  -388.0000
+    z_lev(**) =  -389.0000
+    z_lev(**) =  -390.0000
+    z_lev(**) =  -391.0000
+    z_lev(**) =  -392.0000
+    z_lev(**) =  -393.0000
+    z_lev(**) =  -394.0000
+    z_lev(**) =  -395.0000
+    z_lev(**) =  -396.0000
+    z_lev(**) =  -397.0000
+    z_lev(**) =  -398.0000
+    z_lev(**) =  -399.0000
+    z_lev(**) =  -400.0000
+    z_lev(**) =  -401.0000
+    z_lev(**) =  -402.0000
+    z_lev(**) =  -403.0000
+    z_lev(**) =  -404.0000
+    z_lev(**) =  -405.0000
+    z_lev(**) =  -406.0000
+    z_lev(**) =  -407.0000
+    z_lev(**) =  -408.0000
+    z_lev(**) =  -409.0000
+    z_lev(**) =  -410.0000
+    z_lev(**) =  -411.0000
+    z_lev(**) =  -412.0000
+    z_lev(**) =  -413.0000
+    z_lev(**) =  -414.0000
+    z_lev(**) =  -415.0000
+    z_lev(**) =  -416.0000
+    z_lev(**) =  -417.0000
+    z_lev(**) =  -418.0000
+    z_lev(**) =  -419.0000
+    z_lev(**) =  -420.0000
+    z_lev(**) =  -421.0000
+    z_lev(**) =  -422.0000
+    z_lev(**) =  -423.0000
+    z_lev(**) =  -424.0000
+    z_lev(**) =  -425.0000
+    z_lev(**) =  -426.0000
+    z_lev(**) =  -427.0000
+    z_lev(**) =  -428.0000
+    z_lev(**) =  -429.0000
+    z_lev(**) =  -430.0000
+    z_lev(**) =  -431.0000
+    z_lev(**) =  -432.0000
+    z_lev(**) =  -433.0000
+    z_lev(**) =  -434.0000
+    z_lev(**) =  -435.0000
+    z_lev(**) =  -436.0000
+    z_lev(**) =  -437.0000
+    z_lev(**) =  -438.0000
+    z_lev(**) =  -439.0000
+    z_lev(**) =  -440.0000
+    z_lev(**) =  -441.0000
+    z_lev(**) =  -442.0000
+    z_lev(**) =  -443.0000
+    z_lev(**) =  -444.0000
+    z_lev(**) =  -445.0000
+    z_lev(**) =  -446.0000
+    z_lev(**) =  -447.0000
+    z_lev(**) =  -448.0000
+    z_lev(**) =  -449.0000
+    z_lev(**) =  -450.0000
+    z_lev(**) =  -451.0000
+    z_lev(**) =  -452.0000
+    z_lev(**) =  -453.0000
+    z_lev(**) =  -454.0000
+    z_lev(**) =  -455.0000
+    z_lev(**) =  -456.0000
+    z_lev(**) =  -457.0000
+    z_lev(**) =  -458.0000
+    z_lev(**) =  -459.0000
+    z_lev(**) =  -460.0000
+    z_lev(**) =  -461.0000
+    z_lev(**) =  -462.0000
+    z_lev(**) =  -463.0000
+    z_lev(**) =  -464.0000
+    z_lev(**) =  -465.0000
+    z_lev(**) =  -466.0000
+    z_lev(**) =  -467.0000
+    z_lev(**) =  -468.0000
+    z_lev(**) =  -469.0000
+    z_lev(**) =  -470.0000
+    z_lev(**) =  -471.0000
+    z_lev(**) =  -472.0000
+    z_lev(**) =  -473.0000
+    z_lev(**) =  -474.0000
+    z_lev(**) =  -475.0000
+    z_lev(**) =  -476.0000
+    z_lev(**) =  -477.0000
+    z_lev(**) =  -478.0000
+    z_lev(**) =  -479.0000
+    z_lev(**) =  -480.0000
+    z_lev(**) =  -481.0000
+    z_lev(**) =  -482.0000
+    z_lev(**) =  -483.0000
+    z_lev(**) =  -484.0000
+    z_lev(**) =  -485.0000
+    z_lev(**) =  -486.0000
+    z_lev(**) =  -487.0000
+    z_lev(**) =  -488.0000
+    z_lev(**) =  -489.0000
+    z_lev(**) =  -490.0000
+    z_lev(**) =  -491.0000
+    z_lev(**) =  -492.0000
+    z_lev(**) =  -493.0000
+    z_lev(**) =  -494.0000
+    z_lev(**) =  -495.0000
+    z_lev(**) =  -496.0000
+    z_lev(**) =  -497.0000
+    z_lev(**) =  -498.0000
+    z_lev(**) =  -499.0000
+    z_lev(**) =  -500.0000
+ ### ERROR: read_string :: unexpected non-digit
+      0 file ='shelf_grd.nc'
+      1 file ='shelf_avg.20000102000000.nc'
+  roms_find_dims :: xi_rho=130 xi_u=129 eta_rho=6 eta_v=5 s_rho=0 s_w=0
+         read 'h'
+ Open 'shelf_avg.20000102000000.nc'...
+  roms_check_dims :: xi_rho=130 xi_u=129 eta_rho=6 eta_v=5 s_rho=30 s_w=31
+  roms_find_dims :: xi_rho=130 xi_u=129 eta_rho=6 eta_v=5 s_rho=30 s_w=31
+
+ Created netCDF file 'z_shelf_avg.20000102000000.nc'.
+
+        wrote 'depth'
+ VertCoordType=NEW                                                             
+ read Cs_r,Cs_w,hc from netCDF file.
+ new VertCoordType = SM09
+
+ Aggregate allocated memory:    2.05 MBytes
+
+      read rec    1 of 'ocean_time'.
+     wrote rec    1 of 'ocean_time'
+      read rec    1 of 'time_step'.
+     wrote rec    1 of 'time_step'
+      read rec    1 of 'u' from 'shelf_avg.20000102000000.nc'.
+ sigma_to_z_thread :: allocated   0.09571 MBytes of scratch space, trd =  0
+     wrote rec    1 of 'u' into 'z_shelf_avg.20000102000000.nc'.
+      read rec    1 of 'v' from 'shelf_avg.20000102000000.nc'.
+     wrote rec    1 of 'v' into 'z_shelf_avg.20000102000000.nc'.
+      read rec    1 of 'temp' from 'shelf_avg.20000102000000.nc'.
+     wrote rec    1 of 'temp' into 'z_shelf_avg.20000102000000.nc'.
+      read rec    1 of 'salt' from 'shelf_avg.20000102000000.nc'.
+     wrote rec    1 of 'salt' into 'z_shelf_avg.20000102000000.nc'.
+      read rec    1 of 'rho' from 'shelf_avg.20000102000000.nc'.
+     wrote rec    1 of 'rho' into 'z_shelf_avg.20000102000000.nc'.
+      read rec    1 of 'omega' from 'shelf_avg.20000102000000.nc'.
+     wrote rec    1 of 'omega' into 'z_shelf_avg.20000102000000.nc'.
+      read rec    1 of 'w' from 'shelf_avg.20000102000000.nc'.
+     wrote rec    1 of 'w' into 'z_shelf_avg.20000102000000.nc'.
+      read rec    1 of 'Akv' from 'shelf_avg.20000102000000.nc'.
+     wrote rec    1 of 'Akv' into 'z_shelf_avg.20000102000000.nc'.
+      read rec    1 of 'Akt' from 'shelf_avg.20000102000000.nc'.
+     wrote rec    1 of 'Akt' into 'z_shelf_avg.20000102000000.nc'.
+      read rec    1 of 'AKs' from 'shelf_avg.20000102000000.nc'.
+     wrote rec    1 of 'AKs' into 'z_shelf_avg.20000102000000.nc'.
+      read rec    2 of 'ocean_time'.
+     wrote rec    2 of 'ocean_time'
+      read rec    2 of 'time_step'.
+     wrote rec    2 of 'time_step'
+      read rec    2 of 'u' from 'shelf_avg.20000102000000.nc'.
+     wrote rec    2 of 'u' into 'z_shelf_avg.20000102000000.nc'.
+      read rec    2 of 'v' from 'shelf_avg.20000102000000.nc'.
+     wrote rec    2 of 'v' into 'z_shelf_avg.20000102000000.nc'.
+      read rec    2 of 'temp' from 'shelf_avg.20000102000000.nc'.
+     wrote rec    2 of 'temp' into 'z_shelf_avg.20000102000000.nc'.
+      read rec    2 of 'salt' from 'shelf_avg.20000102000000.nc'.
+     wrote rec    2 of 'salt' into 'z_shelf_avg.20000102000000.nc'.
+      read rec    2 of 'rho' from 'shelf_avg.20000102000000.nc'.
+     wrote rec    2 of 'rho' into 'z_shelf_avg.20000102000000.nc'.
+      read rec    2 of 'omega' from 'shelf_avg.20000102000000.nc'.
+     wrote rec    2 of 'omega' into 'z_shelf_avg.20000102000000.nc'.
+      read rec    2 of 'w' from 'shelf_avg.20000102000000.nc'.
+     wrote rec    2 of 'w' into 'z_shelf_avg.20000102000000.nc'.
+      read rec    2 of 'Akv' from 'shelf_avg.20000102000000.nc'.
+     wrote rec    2 of 'Akv' into 'z_shelf_avg.20000102000000.nc'.
+      read rec    2 of 'Akt' from 'shelf_avg.20000102000000.nc'.
+     wrote rec    2 of 'Akt' into 'z_shelf_avg.20000102000000.nc'.
+      read rec    2 of 'AKs' from 'shelf_avg.20000102000000.nc'.
+     wrote rec    2 of 'AKs' into 'z_shelf_avg.20000102000000.nc'.
+      read rec    3 of 'ocean_time'.
+     wrote rec    3 of 'ocean_time'
+      read rec    3 of 'time_step'.
+     wrote rec    3 of 'time_step'
+      read rec    3 of 'u' from 'shelf_avg.20000102000000.nc'.
+     wrote rec    3 of 'u' into 'z_shelf_avg.20000102000000.nc'.
+      read rec    3 of 'v' from 'shelf_avg.20000102000000.nc'.
+     wrote rec    3 of 'v' into 'z_shelf_avg.20000102000000.nc'.
+      read rec    3 of 'temp' from 'shelf_avg.20000102000000.nc'.
+     wrote rec    3 of 'temp' into 'z_shelf_avg.20000102000000.nc'.
+      read rec    3 of 'salt' from 'shelf_avg.20000102000000.nc'.
+     wrote rec    3 of 'salt' into 'z_shelf_avg.20000102000000.nc'.
+      read rec    3 of 'rho' from 'shelf_avg.20000102000000.nc'.
+     wrote rec    3 of 'rho' into 'z_shelf_avg.20000102000000.nc'.
+      read rec    3 of 'omega' from 'shelf_avg.20000102000000.nc'.
+     wrote rec    3 of 'omega' into 'z_shelf_avg.20000102000000.nc'.
+      read rec    3 of 'w' from 'shelf_avg.20000102000000.nc'.
+     wrote rec    3 of 'w' into 'z_shelf_avg.20000102000000.nc'.
+      read rec    3 of 'Akv' from 'shelf_avg.20000102000000.nc'.
+     wrote rec    3 of 'Akv' into 'z_shelf_avg.20000102000000.nc'.
+      read rec    3 of 'Akt' from 'shelf_avg.20000102000000.nc'.
+     wrote rec    3 of 'Akt' into 'z_shelf_avg.20000102000000.nc'.
+      read rec    3 of 'AKs' from 'shelf_avg.20000102000000.nc'.
+     wrote rec    3 of 'AKs' into 'z_shelf_avg.20000102000000.nc'.
+      read rec    4 of 'ocean_time'.
+     wrote rec    4 of 'ocean_time'
+      read rec    4 of 'time_step'.
+     wrote rec    4 of 'time_step'
+      read rec    4 of 'u' from 'shelf_avg.20000102000000.nc'.
+     wrote rec    4 of 'u' into 'z_shelf_avg.20000102000000.nc'.
+      read rec    4 of 'v' from 'shelf_avg.20000102000000.nc'.
+     wrote rec    4 of 'v' into 'z_shelf_avg.20000102000000.nc'.
+      read rec    4 of 'temp' from 'shelf_avg.20000102000000.nc'.
+     wrote rec    4 of 'temp' into 'z_shelf_avg.20000102000000.nc'.
+      read rec    4 of 'salt' from 'shelf_avg.20000102000000.nc'.
+     wrote rec    4 of 'salt' into 'z_shelf_avg.20000102000000.nc'.
+      read rec    4 of 'rho' from 'shelf_avg.20000102000000.nc'.
+     wrote rec    4 of 'rho' into 'z_shelf_avg.20000102000000.nc'.
+      read rec    4 of 'omega' from 'shelf_avg.20000102000000.nc'.
+     wrote rec    4 of 'omega' into 'z_shelf_avg.20000102000000.nc'.
+      read rec    4 of 'w' from 'shelf_avg.20000102000000.nc'.
+     wrote rec    4 of 'w' into 'z_shelf_avg.20000102000000.nc'.
+      read rec    4 of 'Akv' from 'shelf_avg.20000102000000.nc'.
+     wrote rec    4 of 'Akv' into 'z_shelf_avg.20000102000000.nc'.
+      read rec    4 of 'Akt' from 'shelf_avg.20000102000000.nc'.
+     wrote rec    4 of 'Akt' into 'z_shelf_avg.20000102000000.nc'.
+      read rec    4 of 'AKs' from 'shelf_avg.20000102000000.nc'.
+     wrote rec    4 of 'AKs' into 'z_shelf_avg.20000102000000.nc'.
+      read rec    5 of 'ocean_time'.
+     wrote rec    5 of 'ocean_time'
+      read rec    5 of 'time_step'.
+     wrote rec    5 of 'time_step'
+      read rec    5 of 'u' from 'shelf_avg.20000102000000.nc'.
+     wrote rec    5 of 'u' into 'z_shelf_avg.20000102000000.nc'.
+      read rec    5 of 'v' from 'shelf_avg.20000102000000.nc'.
+     wrote rec    5 of 'v' into 'z_shelf_avg.20000102000000.nc'.
+      read rec    5 of 'temp' from 'shelf_avg.20000102000000.nc'.
+     wrote rec    5 of 'temp' into 'z_shelf_avg.20000102000000.nc'.
+      read rec    5 of 'salt' from 'shelf_avg.20000102000000.nc'.
+     wrote rec    5 of 'salt' into 'z_shelf_avg.20000102000000.nc'.
+      read rec    5 of 'rho' from 'shelf_avg.20000102000000.nc'.
+     wrote rec    5 of 'rho' into 'z_shelf_avg.20000102000000.nc'.
+      read rec    5 of 'omega' from 'shelf_avg.20000102000000.nc'.
+     wrote rec    5 of 'omega' into 'z_shelf_avg.20000102000000.nc'.
+      read rec    5 of 'w' from 'shelf_avg.20000102000000.nc'.
+     wrote rec    5 of 'w' into 'z_shelf_avg.20000102000000.nc'.
+      read rec    5 of 'Akv' from 'shelf_avg.20000102000000.nc'.
+     wrote rec    5 of 'Akv' into 'z_shelf_avg.20000102000000.nc'.
+      read rec    5 of 'Akt' from 'shelf_avg.20000102000000.nc'.
+     wrote rec    5 of 'Akt' into 'z_shelf_avg.20000102000000.nc'.
+      read rec    5 of 'AKs' from 'shelf_avg.20000102000000.nc'.
+     wrote rec    5 of 'AKs' into 'z_shelf_avg.20000102000000.nc'.
+      read rec    6 of 'ocean_time'.
+     wrote rec    6 of 'ocean_time'
+      read rec    6 of 'time_step'.
+     wrote rec    6 of 'time_step'
+      read rec    6 of 'u' from 'shelf_avg.20000102000000.nc'.
+     wrote rec    6 of 'u' into 'z_shelf_avg.20000102000000.nc'.
+      read rec    6 of 'v' from 'shelf_avg.20000102000000.nc'.
+     wrote rec    6 of 'v' into 'z_shelf_avg.20000102000000.nc'.
+      read rec    6 of 'temp' from 'shelf_avg.20000102000000.nc'.
+     wrote rec    6 of 'temp' into 'z_shelf_avg.20000102000000.nc'.
+      read rec    6 of 'salt' from 'shelf_avg.20000102000000.nc'.
+     wrote rec    6 of 'salt' into 'z_shelf_avg.20000102000000.nc'.
+      read rec    6 of 'rho' from 'shelf_avg.20000102000000.nc'.
+     wrote rec    6 of 'rho' into 'z_shelf_avg.20000102000000.nc'.
+      read rec    6 of 'omega' from 'shelf_avg.20000102000000.nc'.
+     wrote rec    6 of 'omega' into 'z_shelf_avg.20000102000000.nc'.
+      read rec    6 of 'w' from 'shelf_avg.20000102000000.nc'.
+     wrote rec    6 of 'w' into 'z_shelf_avg.20000102000000.nc'.
+      read rec    6 of 'Akv' from 'shelf_avg.20000102000000.nc'.
+     wrote rec    6 of 'Akv' into 'z_shelf_avg.20000102000000.nc'.
+      read rec    6 of 'Akt' from 'shelf_avg.20000102000000.nc'.
+     wrote rec    6 of 'Akt' into 'z_shelf_avg.20000102000000.nc'.
+      read rec    6 of 'AKs' from 'shelf_avg.20000102000000.nc'.
+     wrote rec    6 of 'AKs' into 'z_shelf_avg.20000102000000.nc'.
+      read rec    7 of 'ocean_time'.
+     wrote rec    7 of 'ocean_time'
+      read rec    7 of 'time_step'.
+     wrote rec    7 of 'time_step'
+      read rec    7 of 'u' from 'shelf_avg.20000102000000.nc'.
+     wrote rec    7 of 'u' into 'z_shelf_avg.20000102000000.nc'.
+      read rec    7 of 'v' from 'shelf_avg.20000102000000.nc'.
+     wrote rec    7 of 'v' into 'z_shelf_avg.20000102000000.nc'.
+      read rec    7 of 'temp' from 'shelf_avg.20000102000000.nc'.
+     wrote rec    7 of 'temp' into 'z_shelf_avg.20000102000000.nc'.
+      read rec    7 of 'salt' from 'shelf_avg.20000102000000.nc'.
+     wrote rec    7 of 'salt' into 'z_shelf_avg.20000102000000.nc'.
+      read rec    7 of 'rho' from 'shelf_avg.20000102000000.nc'.
+     wrote rec    7 of 'rho' into 'z_shelf_avg.20000102000000.nc'.
+      read rec    7 of 'omega' from 'shelf_avg.20000102000000.nc'.
+     wrote rec    7 of 'omega' into 'z_shelf_avg.20000102000000.nc'.
+      read rec    7 of 'w' from 'shelf_avg.20000102000000.nc'.
+     wrote rec    7 of 'w' into 'z_shelf_avg.20000102000000.nc'.
+      read rec    7 of 'Akv' from 'shelf_avg.20000102000000.nc'.
+     wrote rec    7 of 'Akv' into 'z_shelf_avg.20000102000000.nc'.
+      read rec    7 of 'Akt' from 'shelf_avg.20000102000000.nc'.
+     wrote rec    7 of 'Akt' into 'z_shelf_avg.20000102000000.nc'.
+      read rec    7 of 'AKs' from 'shelf_avg.20000102000000.nc'.
+     wrote rec    7 of 'AKs' into 'z_shelf_avg.20000102000000.nc'.
+      read rec    8 of 'ocean_time'.
+     wrote rec    8 of 'ocean_time'
+      read rec    8 of 'time_step'.
+     wrote rec    8 of 'time_step'
+      read rec    8 of 'u' from 'shelf_avg.20000102000000.nc'.
+     wrote rec    8 of 'u' into 'z_shelf_avg.20000102000000.nc'.
+      read rec    8 of 'v' from 'shelf_avg.20000102000000.nc'.
+     wrote rec    8 of 'v' into 'z_shelf_avg.20000102000000.nc'.
+      read rec    8 of 'temp' from 'shelf_avg.20000102000000.nc'.
+     wrote rec    8 of 'temp' into 'z_shelf_avg.20000102000000.nc'.
+      read rec    8 of 'salt' from 'shelf_avg.20000102000000.nc'.
+     wrote rec    8 of 'salt' into 'z_shelf_avg.20000102000000.nc'.
+      read rec    8 of 'rho' from 'shelf_avg.20000102000000.nc'.
+     wrote rec    8 of 'rho' into 'z_shelf_avg.20000102000000.nc'.
+      read rec    8 of 'omega' from 'shelf_avg.20000102000000.nc'.
+     wrote rec    8 of 'omega' into 'z_shelf_avg.20000102000000.nc'.
+      read rec    8 of 'w' from 'shelf_avg.20000102000000.nc'.
+     wrote rec    8 of 'w' into 'z_shelf_avg.20000102000000.nc'.
+      read rec    8 of 'Akv' from 'shelf_avg.20000102000000.nc'.
+     wrote rec    8 of 'Akv' into 'z_shelf_avg.20000102000000.nc'.
+      read rec    8 of 'Akt' from 'shelf_avg.20000102000000.nc'.
+     wrote rec    8 of 'Akt' into 'z_shelf_avg.20000102000000.nc'.
+      read rec    8 of 'AKs' from 'shelf_avg.20000102000000.nc'.
+     wrote rec    8 of 'AKs' into 'z_shelf_avg.20000102000000.nc'.
+      read rec    9 of 'ocean_time'.
+     wrote rec    9 of 'ocean_time'
+      read rec    9 of 'time_step'.
+     wrote rec    9 of 'time_step'
+      read rec    9 of 'u' from 'shelf_avg.20000102000000.nc'.
+     wrote rec    9 of 'u' into 'z_shelf_avg.20000102000000.nc'.
+      read rec    9 of 'v' from 'shelf_avg.20000102000000.nc'.
+     wrote rec    9 of 'v' into 'z_shelf_avg.20000102000000.nc'.
+      read rec    9 of 'temp' from 'shelf_avg.20000102000000.nc'.
+     wrote rec    9 of 'temp' into 'z_shelf_avg.20000102000000.nc'.
+      read rec    9 of 'salt' from 'shelf_avg.20000102000000.nc'.
+     wrote rec    9 of 'salt' into 'z_shelf_avg.20000102000000.nc'.
+      read rec    9 of 'rho' from 'shelf_avg.20000102000000.nc'.
+     wrote rec    9 of 'rho' into 'z_shelf_avg.20000102000000.nc'.
+      read rec    9 of 'omega' from 'shelf_avg.20000102000000.nc'.
+     wrote rec    9 of 'omega' into 'z_shelf_avg.20000102000000.nc'.
+      read rec    9 of 'w' from 'shelf_avg.20000102000000.nc'.
+     wrote rec    9 of 'w' into 'z_shelf_avg.20000102000000.nc'.
+      read rec    9 of 'Akv' from 'shelf_avg.20000102000000.nc'.
+     wrote rec    9 of 'Akv' into 'z_shelf_avg.20000102000000.nc'.
+      read rec    9 of 'Akt' from 'shelf_avg.20000102000000.nc'.
+     wrote rec    9 of 'Akt' into 'z_shelf_avg.20000102000000.nc'.
+      read rec    9 of 'AKs' from 'shelf_avg.20000102000000.nc'.
+     wrote rec    9 of 'AKs' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   10 of 'ocean_time'.
+     wrote rec   10 of 'ocean_time'
+      read rec   10 of 'time_step'.
+     wrote rec   10 of 'time_step'
+      read rec   10 of 'u' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   10 of 'u' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   10 of 'v' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   10 of 'v' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   10 of 'temp' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   10 of 'temp' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   10 of 'salt' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   10 of 'salt' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   10 of 'rho' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   10 of 'rho' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   10 of 'omega' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   10 of 'omega' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   10 of 'w' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   10 of 'w' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   10 of 'Akv' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   10 of 'Akv' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   10 of 'Akt' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   10 of 'Akt' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   10 of 'AKs' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   10 of 'AKs' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   11 of 'ocean_time'.
+     wrote rec   11 of 'ocean_time'
+      read rec   11 of 'time_step'.
+     wrote rec   11 of 'time_step'
+      read rec   11 of 'u' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   11 of 'u' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   11 of 'v' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   11 of 'v' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   11 of 'temp' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   11 of 'temp' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   11 of 'salt' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   11 of 'salt' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   11 of 'rho' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   11 of 'rho' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   11 of 'omega' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   11 of 'omega' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   11 of 'w' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   11 of 'w' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   11 of 'Akv' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   11 of 'Akv' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   11 of 'Akt' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   11 of 'Akt' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   11 of 'AKs' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   11 of 'AKs' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   12 of 'ocean_time'.
+     wrote rec   12 of 'ocean_time'
+      read rec   12 of 'time_step'.
+     wrote rec   12 of 'time_step'
+      read rec   12 of 'u' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   12 of 'u' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   12 of 'v' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   12 of 'v' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   12 of 'temp' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   12 of 'temp' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   12 of 'salt' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   12 of 'salt' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   12 of 'rho' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   12 of 'rho' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   12 of 'omega' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   12 of 'omega' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   12 of 'w' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   12 of 'w' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   12 of 'Akv' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   12 of 'Akv' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   12 of 'Akt' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   12 of 'Akt' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   12 of 'AKs' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   12 of 'AKs' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   13 of 'ocean_time'.
+     wrote rec   13 of 'ocean_time'
+      read rec   13 of 'time_step'.
+     wrote rec   13 of 'time_step'
+      read rec   13 of 'u' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   13 of 'u' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   13 of 'v' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   13 of 'v' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   13 of 'temp' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   13 of 'temp' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   13 of 'salt' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   13 of 'salt' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   13 of 'rho' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   13 of 'rho' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   13 of 'omega' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   13 of 'omega' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   13 of 'w' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   13 of 'w' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   13 of 'Akv' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   13 of 'Akv' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   13 of 'Akt' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   13 of 'Akt' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   13 of 'AKs' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   13 of 'AKs' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   14 of 'ocean_time'.
+     wrote rec   14 of 'ocean_time'
+      read rec   14 of 'time_step'.
+     wrote rec   14 of 'time_step'
+      read rec   14 of 'u' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   14 of 'u' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   14 of 'v' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   14 of 'v' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   14 of 'temp' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   14 of 'temp' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   14 of 'salt' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   14 of 'salt' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   14 of 'rho' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   14 of 'rho' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   14 of 'omega' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   14 of 'omega' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   14 of 'w' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   14 of 'w' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   14 of 'Akv' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   14 of 'Akv' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   14 of 'Akt' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   14 of 'Akt' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   14 of 'AKs' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   14 of 'AKs' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   15 of 'ocean_time'.
+     wrote rec   15 of 'ocean_time'
+      read rec   15 of 'time_step'.
+     wrote rec   15 of 'time_step'
+      read rec   15 of 'u' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   15 of 'u' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   15 of 'v' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   15 of 'v' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   15 of 'temp' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   15 of 'temp' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   15 of 'salt' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   15 of 'salt' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   15 of 'rho' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   15 of 'rho' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   15 of 'omega' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   15 of 'omega' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   15 of 'w' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   15 of 'w' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   15 of 'Akv' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   15 of 'Akv' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   15 of 'Akt' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   15 of 'Akt' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   15 of 'AKs' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   15 of 'AKs' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   16 of 'ocean_time'.
+     wrote rec   16 of 'ocean_time'
+      read rec   16 of 'time_step'.
+     wrote rec   16 of 'time_step'
+      read rec   16 of 'u' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   16 of 'u' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   16 of 'v' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   16 of 'v' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   16 of 'temp' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   16 of 'temp' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   16 of 'salt' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   16 of 'salt' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   16 of 'rho' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   16 of 'rho' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   16 of 'omega' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   16 of 'omega' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   16 of 'w' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   16 of 'w' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   16 of 'Akv' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   16 of 'Akv' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   16 of 'Akt' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   16 of 'Akt' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   16 of 'AKs' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   16 of 'AKs' into 'z_shelf_avg.20000102000000.nc'.
+ synchronizing rec =          16
+      read rec   17 of 'ocean_time'.
+     wrote rec   17 of 'ocean_time'
+      read rec   17 of 'time_step'.
+     wrote rec   17 of 'time_step'
+      read rec   17 of 'u' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   17 of 'u' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   17 of 'v' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   17 of 'v' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   17 of 'temp' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   17 of 'temp' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   17 of 'salt' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   17 of 'salt' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   17 of 'rho' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   17 of 'rho' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   17 of 'omega' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   17 of 'omega' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   17 of 'w' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   17 of 'w' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   17 of 'Akv' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   17 of 'Akv' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   17 of 'Akt' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   17 of 'Akt' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   17 of 'AKs' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   17 of 'AKs' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   18 of 'ocean_time'.
+     wrote rec   18 of 'ocean_time'
+      read rec   18 of 'time_step'.
+     wrote rec   18 of 'time_step'
+      read rec   18 of 'u' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   18 of 'u' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   18 of 'v' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   18 of 'v' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   18 of 'temp' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   18 of 'temp' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   18 of 'salt' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   18 of 'salt' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   18 of 'rho' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   18 of 'rho' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   18 of 'omega' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   18 of 'omega' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   18 of 'w' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   18 of 'w' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   18 of 'Akv' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   18 of 'Akv' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   18 of 'Akt' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   18 of 'Akt' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   18 of 'AKs' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   18 of 'AKs' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   19 of 'ocean_time'.
+     wrote rec   19 of 'ocean_time'
+      read rec   19 of 'time_step'.
+     wrote rec   19 of 'time_step'
+      read rec   19 of 'u' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   19 of 'u' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   19 of 'v' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   19 of 'v' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   19 of 'temp' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   19 of 'temp' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   19 of 'salt' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   19 of 'salt' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   19 of 'rho' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   19 of 'rho' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   19 of 'omega' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   19 of 'omega' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   19 of 'w' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   19 of 'w' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   19 of 'Akv' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   19 of 'Akv' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   19 of 'Akt' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   19 of 'Akt' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   19 of 'AKs' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   19 of 'AKs' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   20 of 'ocean_time'.
+     wrote rec   20 of 'ocean_time'
+      read rec   20 of 'time_step'.
+     wrote rec   20 of 'time_step'
+      read rec   20 of 'u' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   20 of 'u' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   20 of 'v' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   20 of 'v' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   20 of 'temp' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   20 of 'temp' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   20 of 'salt' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   20 of 'salt' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   20 of 'rho' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   20 of 'rho' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   20 of 'omega' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   20 of 'omega' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   20 of 'w' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   20 of 'w' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   20 of 'Akv' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   20 of 'Akv' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   20 of 'Akt' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   20 of 'Akt' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   20 of 'AKs' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   20 of 'AKs' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   21 of 'ocean_time'.
+     wrote rec   21 of 'ocean_time'
+      read rec   21 of 'time_step'.
+     wrote rec   21 of 'time_step'
+      read rec   21 of 'u' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   21 of 'u' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   21 of 'v' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   21 of 'v' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   21 of 'temp' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   21 of 'temp' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   21 of 'salt' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   21 of 'salt' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   21 of 'rho' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   21 of 'rho' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   21 of 'omega' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   21 of 'omega' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   21 of 'w' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   21 of 'w' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   21 of 'Akv' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   21 of 'Akv' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   21 of 'Akt' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   21 of 'Akt' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   21 of 'AKs' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   21 of 'AKs' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   22 of 'ocean_time'.
+     wrote rec   22 of 'ocean_time'
+      read rec   22 of 'time_step'.
+     wrote rec   22 of 'time_step'
+      read rec   22 of 'u' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   22 of 'u' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   22 of 'v' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   22 of 'v' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   22 of 'temp' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   22 of 'temp' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   22 of 'salt' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   22 of 'salt' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   22 of 'rho' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   22 of 'rho' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   22 of 'omega' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   22 of 'omega' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   22 of 'w' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   22 of 'w' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   22 of 'Akv' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   22 of 'Akv' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   22 of 'Akt' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   22 of 'Akt' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   22 of 'AKs' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   22 of 'AKs' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   23 of 'ocean_time'.
+     wrote rec   23 of 'ocean_time'
+      read rec   23 of 'time_step'.
+     wrote rec   23 of 'time_step'
+      read rec   23 of 'u' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   23 of 'u' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   23 of 'v' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   23 of 'v' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   23 of 'temp' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   23 of 'temp' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   23 of 'salt' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   23 of 'salt' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   23 of 'rho' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   23 of 'rho' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   23 of 'omega' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   23 of 'omega' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   23 of 'w' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   23 of 'w' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   23 of 'Akv' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   23 of 'Akv' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   23 of 'Akt' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   23 of 'Akt' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   23 of 'AKs' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   23 of 'AKs' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   24 of 'ocean_time'.
+     wrote rec   24 of 'ocean_time'
+      read rec   24 of 'time_step'.
+     wrote rec   24 of 'time_step'
+      read rec   24 of 'u' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   24 of 'u' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   24 of 'v' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   24 of 'v' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   24 of 'temp' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   24 of 'temp' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   24 of 'salt' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   24 of 'salt' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   24 of 'rho' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   24 of 'rho' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   24 of 'omega' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   24 of 'omega' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   24 of 'w' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   24 of 'w' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   24 of 'Akv' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   24 of 'Akv' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   24 of 'Akt' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   24 of 'Akt' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   24 of 'AKs' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   24 of 'AKs' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   25 of 'ocean_time'.
+     wrote rec   25 of 'ocean_time'
+      read rec   25 of 'time_step'.
+     wrote rec   25 of 'time_step'
+      read rec   25 of 'u' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   25 of 'u' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   25 of 'v' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   25 of 'v' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   25 of 'temp' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   25 of 'temp' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   25 of 'salt' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   25 of 'salt' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   25 of 'rho' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   25 of 'rho' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   25 of 'omega' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   25 of 'omega' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   25 of 'w' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   25 of 'w' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   25 of 'Akv' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   25 of 'Akv' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   25 of 'Akt' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   25 of 'Akt' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   25 of 'AKs' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   25 of 'AKs' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   26 of 'ocean_time'.
+     wrote rec   26 of 'ocean_time'
+      read rec   26 of 'time_step'.
+     wrote rec   26 of 'time_step'
+      read rec   26 of 'u' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   26 of 'u' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   26 of 'v' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   26 of 'v' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   26 of 'temp' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   26 of 'temp' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   26 of 'salt' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   26 of 'salt' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   26 of 'rho' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   26 of 'rho' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   26 of 'omega' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   26 of 'omega' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   26 of 'w' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   26 of 'w' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   26 of 'Akv' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   26 of 'Akv' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   26 of 'Akt' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   26 of 'Akt' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   26 of 'AKs' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   26 of 'AKs' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   27 of 'ocean_time'.
+     wrote rec   27 of 'ocean_time'
+      read rec   27 of 'time_step'.
+     wrote rec   27 of 'time_step'
+      read rec   27 of 'u' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   27 of 'u' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   27 of 'v' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   27 of 'v' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   27 of 'temp' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   27 of 'temp' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   27 of 'salt' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   27 of 'salt' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   27 of 'rho' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   27 of 'rho' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   27 of 'omega' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   27 of 'omega' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   27 of 'w' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   27 of 'w' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   27 of 'Akv' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   27 of 'Akv' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   27 of 'Akt' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   27 of 'Akt' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   27 of 'AKs' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   27 of 'AKs' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   28 of 'ocean_time'.
+     wrote rec   28 of 'ocean_time'
+      read rec   28 of 'time_step'.
+     wrote rec   28 of 'time_step'
+      read rec   28 of 'u' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   28 of 'u' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   28 of 'v' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   28 of 'v' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   28 of 'temp' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   28 of 'temp' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   28 of 'salt' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   28 of 'salt' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   28 of 'rho' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   28 of 'rho' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   28 of 'omega' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   28 of 'omega' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   28 of 'w' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   28 of 'w' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   28 of 'Akv' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   28 of 'Akv' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   28 of 'Akt' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   28 of 'Akt' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   28 of 'AKs' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   28 of 'AKs' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   29 of 'ocean_time'.
+     wrote rec   29 of 'ocean_time'
+      read rec   29 of 'time_step'.
+     wrote rec   29 of 'time_step'
+      read rec   29 of 'u' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   29 of 'u' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   29 of 'v' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   29 of 'v' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   29 of 'temp' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   29 of 'temp' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   29 of 'salt' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   29 of 'salt' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   29 of 'rho' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   29 of 'rho' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   29 of 'omega' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   29 of 'omega' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   29 of 'w' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   29 of 'w' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   29 of 'Akv' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   29 of 'Akv' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   29 of 'Akt' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   29 of 'Akt' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   29 of 'AKs' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   29 of 'AKs' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   30 of 'ocean_time'.
+     wrote rec   30 of 'ocean_time'
+      read rec   30 of 'time_step'.
+     wrote rec   30 of 'time_step'
+      read rec   30 of 'u' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   30 of 'u' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   30 of 'v' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   30 of 'v' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   30 of 'temp' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   30 of 'temp' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   30 of 'salt' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   30 of 'salt' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   30 of 'rho' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   30 of 'rho' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   30 of 'omega' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   30 of 'omega' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   30 of 'w' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   30 of 'w' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   30 of 'Akv' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   30 of 'Akv' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   30 of 'Akt' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   30 of 'Akt' into 'z_shelf_avg.20000102000000.nc'.
+      read rec   30 of 'AKs' from 'shelf_avg.20000102000000.nc'.
+     wrote rec   30 of 'AKs' into 'z_shelf_avg.20000102000000.nc'.
+
+   cpu time =       3.06 sec
+
+ Elapsed wall-clock time =               3.826 sec
+
+ Total data read:           27.97 MBytes, written:         459.84 MBytes.

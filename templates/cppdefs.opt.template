@@ -59,33 +59,47 @@ c#define ADV_ISONEUTRAL
 #define LMD_KPP
 #define LMD_NONLOCAL
 #define LMD_RIMIX
-#define LMD_CONVEC
 #define LMD_BKPP
 
 
 /* Boundary Conditions */
 /*   - lateral */
-!BCs --> try out no FRC_BRY for velocities, just zero-grad
-! so turn off M3,M2 FRC_BRY
-! and don't specify OBC type
+
+!Default for shelf example is
+! 2D radiation (OBC_M2_FLATHER)
+! Zero-gradient 3D velocity (OBC_WEST, with no other options)
+! Radiation for tracers (OBC_M3ORLANSKI)
+
+! Nudging at the boundary to initial condition (via ANA_BRY)
+!  Z_FRC_BRY - zeta nudging
+!  T_FRC_BRY - tracer nudging
+
+
 /* Open Boundary Conditions */
-!ANA_BRY TO USE INITIAL CONDITION AS BRY
+! Use initial condition as specified field for nudging
 #define ANA_BRY
-!Eastern closed (land mask)
+!Open in west, N/S periodic, closed in east
 #define OBC_WEST 
 #define NS_PERIODIC
-!Only do FRC for T
-!#define T_FRC_BRY
-#define Z_FRC_BRY
 
 
-!#define M3_FRC_BRY
-#define M2_FRC_BRY
+! 2D radiation
 #define OBC_M2FLATHER
-!#define OBC_TORLANSKI
+! Tracer radiation (orlanski)
+#define OBC_TORLANSKI
+! no M3 velocity defined --> defaults to zero-gradient
+!# define OBC_M3ORLANSKI
+
+!Nudging (tracers and zeta)
+#define T_FRC_BRY
+#define Z_FRC_BRY
+#define M2_FRC_BRY
+!#define M3_FRC_BRY
+
+!OTHER OPTIONS
 !#define OBC_TSPECIFIED
 !#define OBC_M3SPECIFIED
-!# define OBC_M3ORLANSKI
+
 #define SPONGE
 #define SPONGE_WRITE
 !#define CONSTANT_SPONGE

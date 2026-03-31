@@ -7,4 +7,4 @@ for f in *.template; do
 done
 
 echo "Configuration files created."
-echo "Edit cppdefs.h and *.opt before compiling."
+echo "Edit cppdefs.opt and *.opt before compiling."
