@@ -29,15 +29,6 @@
           do i=-1,nx+2
 	     !Constant strat
 	     b = b0 + N2back * (z_r(i,j,k) + max_h_shelf)   
-	     !if (k.eq.N) then
-               !Introduce some noise at surface
-	        !call random_number(rand1)
-                !call random_number(rand2)
-	        !normal = sqrt(-2.0 * log(rand1)) * cos(2.0 * pi * rand2)
-	        !noise = normal !* exp(z_r(i,j,k) / 4)
-	        !b = b0 + N2back * (z_r(i,j,k) + max_h_shelf) + 1e-1*noise*N2back*Hz(i,j,k)
-             ! endif	
-
 
              t(i,j,k,1,itemp) = b / (g*alpha)
              t(i,j,k,2,itemp) = t(i,j,k,1,itemp)
@@ -56,9 +47,9 @@
 	  t(i,j,k,2,iDye)=t(i,j,k,1,iDye)
 #endif
 
-#ifdef TRACER_RESTORE
-	    temp_restore(i,j,k) = t(i,j,k,1,itemp)
-#endif
+!#ifdef TRACER_RESTORE
+!	    temp_restore(i,j,k) = t(i,j,k,1,itemp)
+!#endif
 
 
           enddo
@@ -72,17 +63,7 @@
           ubar(i,j,2)=ubar(i,j,1) *umask(i,j)
           vbar(i,j,1)=0 *vmask(i,j)
           vbar(i,j,2)=vbar(i,j,1) * vmask(i,j)
-
-          !Add some noise to zeta
-	  call random_number(rand1)
-          call random_number(rand2)
-          if (rand1>0) then
-              normal = sqrt(-2.0 * log(rand1)) * cos(2.0 * pi * rand2)
-	  else
-	     normal=0.0
-	  endif
-
-          zeta(i,j,1)=1e-4*normal*rmask(i,j)
+          zeta(i,j,1)=0 * rmask(i,j)
           zeta(i,j,2)=zeta(i,j,1) * rmask(i,j)
           do k=1,nz
             u(i,j,k,1)=0. *umask(i,j)
