@@ -15,7 +15,10 @@ Compile/
 *.nc
 
 # specific frequently edited scripts
-*.in
+#*.in
 do_roms.sh
 roms
+
+#testing code directory
+run_roms/
 
